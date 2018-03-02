@@ -4,7 +4,7 @@ import getpass
 """ sets the server imap list """
 serverList = {
     'outlook': 'imap-mail.outlook.com',
-    'gmail': ''
+    'gmail': 'imap.gmail.com'
 }
 
 """ Asks the user for their email client """
